@@ -8,6 +8,7 @@ body {
 }
 
 .home_img {
+  border-radius: 40px;
   width: 250px;
 }
 
